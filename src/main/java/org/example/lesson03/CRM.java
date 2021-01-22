@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 
 
-public class ChromeTest {
+public class CRM {
 
 
     public static void main(String[] args) {
