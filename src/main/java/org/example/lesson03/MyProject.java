@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.Dimension;
 
-public class Lesson1Task2Test {
+public class MyProject {
 
     private WebDriver driver;
 
